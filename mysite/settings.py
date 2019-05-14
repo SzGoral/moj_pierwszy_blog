@@ -25,7 +25,7 @@ SECRET_KEY = '&o^8_@ku$ih37n!!+ar%y)7#6lt7g$xj^42sm4fc04%k4=09$w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['szgoral.pythonanywhere.com']
 
 
 # Application definition
